@@ -1,0 +1,11 @@
+gamma: 0.95
+method: q-learning
+benchmark: -19
+time_limit: 5
+initial_seed: 44
+#######
+#    W#
+# ## W#
+#  #KW#
+# ^ FW#
+#######
